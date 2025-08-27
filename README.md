@@ -2,8 +2,8 @@
 #### 🎓Computer & Communications Engineering Student at **Cairo University, Faculty of Engineering**  
 
 ### 🚀 About Me
-💻 Passionate about coding and building projects that challenge my skills  
-🌱 Always learning new technologies and exploring the programming world  
+- 💻 Passionate about coding and building projects that challenge my skills  
+- 🌱 Always learning new technologies and exploring the programming world  
 
 ### 🔭 I'm currently working on
 - 🛠️ Building side projects to sharpen my skills  
