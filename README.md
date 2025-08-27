@@ -1,4 +1,4 @@
-## Hi there, I'm Nada 👋
+## Hi there, I'm Nada 👋😺🌸
 
 What I'm up to
 - 🌐 Learning Golang, React, and backend engineering  
