@@ -1,5 +1,5 @@
 # Hi there, I'm Nada 👋😺
-### 🎓Computer & Communications Engineering Student at **Cairo University, Faculty of Engineering**  
+#### 🎓Computer & Communications Engineering Student at **Cairo University, Faculty of Engineering**  
 
 ### 🚀 About Me
 💻 Passionate about coding and building projects that challenge my skills  
