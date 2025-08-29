@@ -14,7 +14,7 @@
 - React
 - Backend engineering
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,cpp,react,vue,discord, git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,cpp,react,vue,discord,git)](https://skillicons.dev)
 
 ### 🌟Let's Connect
 I'm always open to  collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
