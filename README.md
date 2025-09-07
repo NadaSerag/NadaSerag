@@ -14,9 +14,10 @@
 - React
 - Backend engineering
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,cpp,react,vue,discord,git)](https://skillicons.dev)
+### ⚙️ Programming Languages and Platforms I'm familiar with:
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,cpp,react,redux,vue,vite,visualstudio,vscode,windows,gmail,git,github,linkedin,matlab,sqlite,postgres,postman&perline=10)](https://skillicons.dev)
 
-### 🌟Let's Connect
+### 🌟 Let's Connect
 I'm always open to  collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
 ### 📫 How to Reach Me
